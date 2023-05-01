@@ -1,0 +1,47 @@
+body{
+    background-image: url(https://i2.wp.com/cloud.estacaonerd.com/wp-content/uploads/2018/10/16110433/tom-e-jerry-1.png?fit=1000%2C600&ssl=1);
+}
+.menu_game{
+    width: 80vw;
+    height: 80vh;
+    margin: auto auto auto auto;
+    margin-top: 25px;
+    background-color: darkgray;
+    
+}
+.fild{
+    
+    position: relative;
+    width: 1080px;
+    height:465px;
+    margin: auto auto auto auto;
+    background-color: green;
+}
+.caracter{
+    position: absolute;
+    top:0px;
+    left:0px;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    
+}
+.caracter img{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+.nemesis{
+    position: absolute;
+    top:0px;
+    left:1080px;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-color: red;
+}
+.nemesis img{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
